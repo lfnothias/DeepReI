@@ -3,6 +3,11 @@
  
  Details are published in: Tomáš Vrzal, Michaela Malečková, Jana Olšovská,DeepReI: Deep learning-based gas chromatographic retention index predictor,Analytica Chimica Acta 1147, 2021, 64 - 71, https://doi.org/10.1016/j.aca.2020.12.043
 
+
+## Binder
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/lfnothias/DeepReI/main?urlpath=rstudio)
+
+
 INSTRUCTIONS FOR INSTALLATION:
 
 (If R, keras package and 7-Zip are already installed, step 1 – 4 could be skipped.)
